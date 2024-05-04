@@ -1,0 +1,28 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore environment folder
+env/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore SQLite database files
+*.sqlite
+
+# Ignore configuration files with sensitive information
+config.ini
+
+# Ignore package-lock.json for Node.js projects
+package-lock.json
+
+# Ignore Docker specific files
+Dockerfile
+docker-compose.yml
+
+# Ignore Python virtual environment
+venv/

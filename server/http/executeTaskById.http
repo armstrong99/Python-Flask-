@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/tasks/1/execute
+Content-Type: application/json
+
+{
+    "task_id": 1
+}
